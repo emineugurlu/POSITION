@@ -41,7 +41,7 @@ This project goes beyond simple styling, focusing on the **spatial logic** of we
    ```bash
    git clone [https://github.com/emineugurlu/POSITION.git](https://github.com/emineugurlu/POSITION.git)
    ````
-2. **Execute**
+2. **Execute:**
  ```bash
     cd VALIDATION
     open index.html
